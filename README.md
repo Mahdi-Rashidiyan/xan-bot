@@ -107,3 +107,4 @@ A versatile Telegram bot for managing both groups and channels with powerful mod
 ## Note
 
 Only users with admin privileges in the group can use the ban/unban commands. 
+And now the bot is also under development for more feature therefor we deploy  it then
